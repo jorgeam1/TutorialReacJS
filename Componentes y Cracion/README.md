@@ -1,4 +1,4 @@
-# Tutorial React
+# Creación y Agregar Componentes
 
 ## Actualizamos Node Js 
 1. Ingresamos el comando `npm install -g npm@latest` esto es para actualizar npm a su ultima version.
