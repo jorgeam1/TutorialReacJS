@@ -25,7 +25,7 @@ class MiComponente extends React.Component{
 }
 ```
    3.1 Manera alternativa para Heredar de Reac.Component quedaria de la siguinete manera:
-    ```
+```
         import React, {Component} from 'react';
 
         class MiComponente extends Component{
@@ -35,7 +35,7 @@ class MiComponente extends React.Component{
                 );
             }
         }
-    ```
+```
 
 4. agregarmos el codigo render que es el que visualizara los componentes quedaria de la siguiente manera:
 ```
